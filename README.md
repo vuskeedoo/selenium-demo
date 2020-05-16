@@ -1,6 +1,11 @@
 # Overview
-Demo project for Selenium using Python.
-Test Website: http://automationpractice.com/index.php
+This is a demo Selenium project for practice
 
 # Tests
-Test login page with valid and invalid credentials.
+1. Login page with valid username and password
+2. Login page with invalid username and invalid password
+3. Login page with valid username and invalid password
+
+# TO DO
+1. Test add item to cart
+2. Test checkout process
